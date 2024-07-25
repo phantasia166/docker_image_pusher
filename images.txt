@@ -1,1 +1,1 @@
-jenkinsci/blueocean
+docker.elastic.co/logstash/logstash:8.14.3
