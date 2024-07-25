@@ -1,1 +1,1 @@
-docker.elastic.co/logstash/logstash:8.14.3
+apache/rocketmq:5.2.0
