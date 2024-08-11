@@ -1,1 +1,1 @@
-kklldog/agile_config
+elasticsearch/elasticsearch:8.14.3 --platform aarch64
